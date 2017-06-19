@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CourseWork</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_users_list">UsersListActivity</string>
+    <string name="title_activity_show_track_maps">Map</string>
+    <string name="vntu">ВНТУ</string>
+    <string name="kafedra">Кафедра САКМІГ</string>
+</resources>
